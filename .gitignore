@@ -1,3 +1,4 @@
 output/
-tiny_vid/
 exp/
+__pycache__/
+.idea/
